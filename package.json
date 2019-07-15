@@ -1,0 +1,26 @@
+{
+  "name": "amazon_store",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adrianp87/amazon_store.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adrianp87/amazon_store/issues"
+  },
+  "homepage": "https://github.com/adrianp87/amazon_store#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "inquirer": "^6.3.1",
+    "mysql2": "^1.6.5"
+  },
+  "devDependencies": {}
+}
